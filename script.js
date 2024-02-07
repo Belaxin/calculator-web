@@ -31,7 +31,6 @@ function theme1() {
     body.classList.remove('body2'); body.classList.remove('body3');
     header.classList.remove('header2'); header.classList.remove('header3');
     pTheme.classList.remove('p-theme2'); pTheme.classList.remove('p-theme3');
-    screen.classList.remove('screen2'); screen.classList.remove('screen3');
     digits.classList.remove('digits2'); digits.classList.remove('digits3');
     pad.classList.remove('pad2'); pad.classList.remove('pad3');
     red.classList.remove('red2'); red.classList.remove('red3');

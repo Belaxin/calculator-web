@@ -15,14 +15,14 @@ input.addEventListener('input', changeTheme);
 function changeTheme() {
     let theme = input.value;
     if (theme === "1") {
-        theme1();
+        theme2();
         document.cookie = "theme=1;";
     } else if (theme === "2") {
         theme2();
-        document.cookie = "theme=2;";
+        document.cookie = "theme=3;";
     } else if (theme === "3") {
         theme3();
-        document.cookie = "theme=3;";
+        document.cookie = "theme=1;";
     } else { return; }
 }
 

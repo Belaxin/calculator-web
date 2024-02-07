@@ -31,7 +31,7 @@ body {
     font-size: 1.8em;
     transition: color 0.5s;
 }
-.header2 { color: hsl(60, 10%, 19%); }
+.header2 { color: hsl(60, 100%, 100%); }
 .header3 { color: hsl(52, 100%, 62%); }
 .p-theme1, .p-theme2, .p-theme3 {
     color: #fff;
@@ -43,8 +43,8 @@ body {
     letter-spacing: 0.1em;
     transition: color 0.5s;
 }
-.p-theme2 { color: hsl(60, 10%, 19%); }
-.p-theme3 { color: hsl(52, 100%, 62%); }
+.p-theme2 { color: hsl(6, 50%, 19%); }
+.p-theme3 { color: hsl(52, 10%, 62%); }
 .numbers1 {
     color: #fff;
     position: absolute;
